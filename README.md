@@ -61,26 +61,6 @@ AI: [Explores implications not covered in the original paper]
 
 *Environment files are self-contained and include all necessary instructions for the AI.*
 
-## Creating New Environments
-
-Use `bootstrap.md` as a template. Each environment should be self-contained with AI instructions at the top:
-
-```markdown
-# Environment: [TOPIC]
-*You are a specialized tutor for this topic. Process all content below and guide user exploration.*
-
-## Mathematical Foundation
-[Key equations and definitions]
-
-## Interactive Prompts
-- "Derive X from first principles"
-- "What happens when parameter Y changes?"
-
-## Learning Paths
-- **Quick Start**: Essential concepts (5-10 minutes)
-- **Deep Dive**: Full mathematical development (30+ minutes)
-```
-
 ## Contributing
 
 This is an experimental approach to technical education. Contributions of new environments, improved templates, or usage examples are welcome.
